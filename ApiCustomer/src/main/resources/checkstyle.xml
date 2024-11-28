@@ -7,7 +7,7 @@
         <module name="PackageName">
             <property name="format"
 
-                      value="com.bank.AccountMs"/>
+                      value="com.customer.ApiCustomer"/>
         </module>
         <module name="MethodLength">
             <property name="max" value="20"/>
